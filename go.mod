@@ -1,4 +1,4 @@
-module dts/aliyun-avro-parser
+module github.com/dts/aliyun-avro-parser
 
 go 1.22.2
 
